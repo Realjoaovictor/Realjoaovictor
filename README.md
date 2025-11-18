@@ -1,26 +1,49 @@
-## Bem-vindo(a) ao meu cantinho 🍉
+<img align="left" alt="gife4.gif" width="300" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife4.gif?raw=true" />
 
- <div>
-   <a href="https://github.com/JvictorDevx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvictorDevx&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvictorDevx&layout=compact&langs_count=6&theme=github_dark"/>
+<!-- About Me -->
+<h3 align="left">- Sobre</h3>
+<p>
+  🌱 Estou estudando para melhorar minhas habilidades de programação.<br>
+  🔭 Além do meu foco em Python, estou aprendendo e consumindo a Inteligência Artificial.<br>
+  💬 Interesse em engenharia de software com IA, Automação, Linguagens e Frameworks, java, etc..<br>
+   <br>
+</p>
+
+<h3 align="side"> - Social:</h3>
+<div align="side">
+  <a href="mailto:jvictorsantos.dev@gmail.com"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-50646b353/" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<br/>
+
+<h3 align="center"> ---------------------------------------------------------------------------------------------------------------------------------------------</h3>
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Area de trabalho</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
+  <img src="https://skillicons.dev/icons?i=linux" /><br>
 </div>
- 
-<br>
- 
-### Para me contactar, a seguir minhas redes sociais!
- 
-<div>
-  <a href="https://instagram.com/jvictorksk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/9pnT3Kkfm3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jvictorsantos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<br/>
+
+<br/>
+
+<!-- GitHub Status -->
+<h3 align="center">📟 Status</h3>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=Realjoaovictor&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
+  <img height="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=6&theme=dark"/>
+</div>
+
+<br/>
+
+<!-- End -->
+<div align="center">
+    <a href="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife5.gif?raw=true">
+      <img src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife5.gif?raw=true" alt="gife5/gif" style="width:auto; height:auto" />
+    </a>
 </div>
