@@ -36,7 +36,6 @@
 <h3 align="center">📟 Status</h3>
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=Realjoaovictor&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
-  <img height="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 <br/>
