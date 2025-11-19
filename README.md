@@ -69,8 +69,6 @@
 <br/>
 <br/>
 
-**Lembre-se:** Você deve ir na aba **Actions** e rodar este novo *workflow* (`GitHub Profile Metrics Card`) manualmente para que o arquivo `metrics.plugin.github.svg` seja criado e exibido.
-
 <!-- End -->
 <div align="center">
     <a href="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife5.gif?raw=true">
