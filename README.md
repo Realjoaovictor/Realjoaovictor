@@ -27,7 +27,6 @@
     <table align="center">
         <tr>
             <td style="border: none; padding-right: 20px;">
-                <h4 align="center">Minhas Ferramentas</h4>
                 <div align="center">
                   <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
                   <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
