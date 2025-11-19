@@ -49,15 +49,15 @@
 <!-- GitHub Status e Steam Lado a Lado -->
 <h3 align="center">📊 Status e Atividade Gamer</h3>
 <div align="center">
-    <table border="0" style="border-collapse: collapse;">
+    <table style="border: none !important; border-collapse: collapse; width: 90%;">
         <tr>
-            <td style="border: none; padding: 0 10px;">
+            <td style="border: none !important; padding: 0 10px;">
                 <h4 align="center">Perfil GitHub</h4>
-                <img src="metrics.plugin.github.svg" alt="Estatísticas do Perfil" />
+                <img src="metrics.plugin.github.svg" width="450" alt="Estatísticas do Perfil" />
             </td>
-            <td style="border: none; padding: 0 10px;">
+            <td style="border: none !important; padding: 0 10px;">
                 <h4 align="center">Atividade Recente Steam</h4>
-                <img src="metrics.plugin.steam.svg" alt="Steam Activity" />
+                <img src="metrics.plugin.steam.svg" width="450" alt="Steam Activity" />
             </td>
         </tr>
     </table>
