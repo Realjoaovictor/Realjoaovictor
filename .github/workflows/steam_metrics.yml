@@ -14,13 +14,18 @@ jobs:
   steam-card:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout do Repositório (sem o bloco "with:" para o checkout)
       - uses: actions/checkout@v4
 
+      # 2. Geração das Métricas
       - name: Generate metrics
         # CORREÇÃO CRÍTICA: Deve ser o nome da Action original
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Configurações de Escala
+          config_output: '{"scale": 1.2}' # <- Aumento de escala
           
           # Configurações do Steam
           filename: metrics.plugin.steam.svg
