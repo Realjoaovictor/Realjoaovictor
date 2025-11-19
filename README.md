@@ -46,19 +46,30 @@
 <br/>
 <br/>
 
-<!-- GitHub Status -->
-<h3 align="center">📟 Status</h3>
+<!-- GitHub Status e Steam Lado a Lado -->
+<h3 align="center">📊 Status e Atividade Gamer</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=Realjoaovictor&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
+    <table align="center">
+        <tr>
+            <!-- Coluna da Esquerda: Card de Estatísticas do Perfil (Gerado por github_metrics.yml) -->
+            <td style="border: none; padding-right: 20px;">
+                <h4 align="center">Perfil GitHub</h4>
+                <img src="metrics.plugin.github.svg" alt="Estatísticas do Perfil" />
+            </td>
+            
+            <!-- Coluna da Direita: Card de Atividade Steam (metrics.plugin.steam.svg) -->
+            <td style="border: none;">
+                <h4 align="center">Atividade Recente Steam</h4>
+                <img src="metrics.plugin.steam.svg" alt="Steam Activity" />
+            </td>
+        </tr>
+    </table>
 </div>
 
-<h3 align="center">🎮 Atividade Recente no Steam</h3>
-<div align="center">
-    <img src="metrics.plugin.steam.svg" alt="Steam Activity" />
-</div>
+<br/>
 <br/>
 
-<br/>
+**Lembre-se:** Você deve ir na aba **Actions** e rodar este novo *workflow* (`GitHub Profile Metrics Card`) manualmente para que o arquivo `metrics.plugin.github.svg` seja criado e exibido.
 
 <!-- End -->
 <div align="center">
