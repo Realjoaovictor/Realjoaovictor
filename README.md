@@ -54,7 +54,7 @@
 
 <h3 align="center">🎮 Atividade Recente no Steam</h3>
 <div align="center">
-    <img src="https://github-readme-stats-addons.vercel.app/steam?steamid=Jeivee&token=SEU_TOKEN_AQUI" alt="Steam Profile" />
+    <img src="metrics.plugin.steam.svg" alt="Steam Activity" />
 </div>
 <br/>
 
