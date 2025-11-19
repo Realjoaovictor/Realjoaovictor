@@ -1,0 +1,28 @@
+name: Steam Metrics Card
+
+on:
+  # Roda todos os dias às 1h30m (fuso horário UTC)
+  schedule: [{cron: "30 1 * * *"}]
+  # Permite rodar manualmente a qualquer momento na aba Actions
+  workflow_dispatch:
+
+jobs:
+  steam-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # O token do GitHub é necessário para a Action funcionar
+          token: ${{ secrets.GITHUB_TOKEN }} 
+          
+          # Configurações do Steam (Seu código original)
+          filename: metrics.plugin.steam.svg
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561199488162434"
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 0
