@@ -6,6 +6,10 @@ on:
   # Permite rodar manualmente a qualquer momento na aba Actions
   workflow_dispatch:
 
+# ESSENCIAL: Permite que a Action crie/atualize o arquivo SVG
+permissions:
+  contents: write
+
 jobs:
   steam-card:
     runs-on: ubuntu-latest
@@ -13,12 +17,12 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate metrics
+        # CORREÇÃO CRÍTICA: Deve ser o nome da Action original
         uses: lowlighter/metrics@latest
         with:
-          # O token do GitHub é necessário para a Action funcionar
-          token: ${{ secrets.GITHUB_TOKEN }} 
+          token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Configurações do Steam (Seu código original)
+          # Configurações do Steam
           filename: metrics.plugin.steam.svg
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
