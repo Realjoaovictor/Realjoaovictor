@@ -22,7 +22,7 @@
 <br/>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Área de Trabalho</h3>
+<h3 align="center"> Área de Trabalho</h3>
 <div align="center">
     <table align="center">
         <tr>
@@ -44,7 +44,7 @@
 <br/>
 <br/>
 <!-- GitHub Status e Steam Lado a Lado -->
-<h3 align="center">📊 Status</h3>
+<h3 align="center"> Status</h3>
 <div align="center">
     <img src="metrics.plugin.github.svg" width="430" alt="Perfil GitHub" />
 </div>
