@@ -22,20 +22,20 @@
 <br/>
 
 <!-- Languages & Tools -->
-<h3 align="center"> Área de Trabalho</h3>
+<h3 align="center"> Desktop</h3>
 <div align="center">
     <table align="center">
         <tr>
             <td style="border: none; padding-right: 20px;">
                 <div align="center">
-                  <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
-                  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
-                  <img src="https://skillicons.dev/icons?i=linux" /><br>
+                  <img src="metrics.plugin.github.svg" width="430" alt="Perfil GitHub" /><br>
                 </div>
             </td>
             
-<td style="border: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=5&theme=dark&hide_title=true" alt="Linguagens mais usadas" />
+<td style="border: none; padding-right: 20px;">
+     <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
+     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
+     <img src="https://skillicons.dev/icons?i=linux" /><br>
 </td>
         </tr>
     </table>
@@ -46,7 +46,7 @@
 <!-- GitHub Status e Steam Lado a Lado -->
 <h3 align="center"> Status</h3>
 <div align="center">
-    <img src="metrics.plugin.github.svg" width="430" alt="Perfil GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=5&theme=dark&hide_title=true" alt="Linguagens mais usadas" />
 </div>
 
 <br/>
