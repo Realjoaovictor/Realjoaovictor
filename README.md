@@ -22,7 +22,7 @@
 <br/>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Área de Trabalho e Atividade</h3>
+<h3 align="center">📚 Área de Trabalho</h3>
 <div align="center">
     <table align="center">
         <tr>
