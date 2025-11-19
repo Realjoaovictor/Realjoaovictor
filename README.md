@@ -19,17 +19,31 @@
 <br/>
 
 <h3 align="center"> ---------------------------------------------------------------------------------------------------------------------------------------------</h3>
+<br/>
 
 <!-- Languages & Tools -->
-<h3 align="center">📚 Area de trabalho</h3>
+<h3 align="center">📚 Área de Trabalho e Atividade</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
-  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
-  <img src="https://skillicons.dev/icons?i=linux" /><br>
+    <table align="center">
+        <tr>
+            <td style="border: none; padding-right: 20px;">
+                <h4 align="center">Minhas Ferramentas</h4>
+                <div align="center">
+                  <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
+                  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
+                  <img src="https://skillicons.dev/icons?i=linux" /><br>
+                </div>
+            </td>
+            
+<td style="border: none;">
+    <h4 align="center">Linguagens Recentes</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=5&theme=dark&hide_title=true" alt="Linguagens mais usadas" />
+</td>
+        </tr>
+    </table>
 </div>
 
 <br/>
-
 <br/>
 
 <!-- GitHub Status -->
@@ -37,6 +51,12 @@
 <div align="center">
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=Realjoaovictor&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=8" />
 </div>
+
+<h3 align="center">🎮 Atividade Recente no Steam</h3>
+<div align="center">
+    <img src="https://github-readme-stats-addons.vercel.app/steam?steamid=Jeivee&token=SEU_TOKEN_AQUI" alt="Steam Profile" />
+</div>
+<br/>
 
 <br/>
 
