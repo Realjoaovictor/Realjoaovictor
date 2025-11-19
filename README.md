@@ -49,7 +49,6 @@
 <h3 align="center">📊 Status e Atividade Gamer</h3>
 <div align="center">
     <img src="metrics.plugin.github.svg" width="430" alt="Perfil GitHub" />
-    <img src="https://placehold.co/1x180/555/555" alt="Linha Divisória" style="vertical-align: top; margin: 0 10px;" />
     <img src="metrics.plugin.steam.svg" width="430" alt="Atividade Recente Steam" style="transform: translateY(-10px); display: inline-block;" />
 </div>
 
