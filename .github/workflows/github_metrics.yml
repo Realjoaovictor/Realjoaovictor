@@ -14,10 +14,12 @@ jobs:
   github-card:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout do Repositório
       - uses: actions/checkout@v4
 
+      # 2. Geração das Métricas
       - name: Generate core metrics
-        # Usa o token do GitHub Actions para acessar os dados do seu perfil
+        # Usa a Action lowlighter/metrics para gerar o card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -28,5 +30,11 @@ jobs:
           # Configuração base: mostra o card de perfil padrão com as estatísticas principais
           base: 'header, activity, community, metadata'
           
-          # Desativa todos os plugins extras que não precisamos aqui
+          # Remove as bordas do card
+          hide_border: true 
+          
+          # Aumenta a escala do card em 20%
+          config_output: '{"scale": 1.2}'
+          
+          # Desativa o plugin Steam (pois esta Action é apenas para métricas do GitHub)
           plugin_steam: no
