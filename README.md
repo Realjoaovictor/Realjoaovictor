@@ -1,23 +1,23 @@
 <img align="left" alt="gife4.gif" width="300" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife4.gif?raw=true" />
 
-<!-- About Me -->
 <h3 align="left">- Sobre</h3>
 <p>
- 
- - 🎓 Dedicado ao aprimoramento das minhas habilidades de programação, com foco e base sólida em Python.<br>
- 
- - 🧠 Em fase de estudo inicial e consumo de conteúdo sobre Inteligência Artificial (IA), buscando expandir meu conhecimento.<br>
- 
- - ⚙️ Tenho grande interesse em Engenharia de Software (com IA), Automação e a exploração de novas Linguagens e Frameworks, como Java.<br>
-   <br>
+ 
+ - 🎓 Dedicado ao aprimoramento das minhas habilidades de programação, com foco e base sólida em Python.<br>
+ 
+ - 🧠 Em fase de estudo inicial e consumo de conteúdo sobre Inteligência Artificial (IA), buscando expandir meu conhecimento.<br>
+ 
+ - ⚙️ Tenho grande interesse em Engenharia de Software (com IA), Automação e a exploração de novas Linguagens e Frameworks, como Java.<br>
+   <br>
 </p>
 
-<h3 align="side"> - Social:</h3>
-<div align="side">
-  <a href="mailto:jvictorsantos.dev@gmail.com"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-50646b353/" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <h3 style="margin-right: 10px; margin-bottom: 0;">- Social:</h3>
+    <a href="mailto:jvictorsantos.dev@gmail.com"><img width="30px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-50646b353/" target="_blank"><img width="30px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+    <a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="30px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
 </div>
+<br/>
 
 <br/>
 
