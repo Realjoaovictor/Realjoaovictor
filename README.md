@@ -3,9 +3,9 @@
 <!-- About Me -->
 <h3 align="left">- Sobre</h3>
 <p>
-  🌱 Estou estudando para melhorar minhas habilidades de programação.<br>
-  🔭 Além do meu foco em Python, estou aprendendo e consumindo a Inteligência Artificial.<br>
-  💬 Interesse em engenharia de software com IA, Automação, Linguagens e Frameworks, java, etc..<br>
+  🎓 Dedicado ao aprimoramento das minhas habilidades de programação, com foco e base sólida em Python.<br>
+  🧠 Em fase de estudo inicial e consumo de conteúdo sobre Inteligência Artificial (IA), buscando expandir meu conhecimento.<br>
+  ⚙️ Tenho grande interesse em Engenharia de Software (com IA), Automação e a exploração de novas Linguagens e Frameworks, como Java.<br>
    <br>
 </p>
 
