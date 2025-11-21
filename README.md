@@ -43,10 +43,10 @@
 
 <br/>
 <br/>
-<!-- GitHub Status e Steam Lado a Lado -->
+<!-- Languages Used-->
 <h3 align="center"> Status</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realjoaovictor&layout=compact&langs_count=5&theme=dark&hide_title=true" alt="" />
+    <img src="metrics.plugin.languages.recent.svg" alt="Métricas de Linguagens Recentes" />
 </div>
 
 <br/>
