@@ -2,12 +2,9 @@
 
 <h3 align="left">- Sobre</h3>
 <p>
- 
- - 🎓 Dedicado ao aprimoramento das minhas habilidades de programação, com foco e base sólida em Python.<br>
- 
- - 🧠 Em fase de estudo inicial e consumo de conteúdo sobre Inteligência Artificial (IA), buscando expandir meu conhecimento.<br>
- 
- - ⚙️ Tenho grande interesse em Engenharia de Software (com IA), Automação e a exploração de novas Linguagens e Frameworks, como Java.<br>
+  🎓 Dedicado ao aprimoramento das minhas habilidades de programação, com foco e base sólida em Python.<br>
+  🧠 Em fase de estudo inicial e consumo de conteúdo sobre Inteligência Artificial (IA), buscando expandir meu conhecimento.<br>
+  ⚙️ Tenho grande interesse em Engenharia de Software (com IA), Automação e a exploração de novas Linguagens e Frameworks, como Java.<br>
    <br>
 </p>
 
