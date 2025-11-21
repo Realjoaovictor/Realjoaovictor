@@ -12,6 +12,10 @@ jobs:
     # O runner (ambiente) que irá executar a ação
     runs-on: ubuntu-latest
     
+    # === CORREÇÃO ADICIONADA AQUI ===
+    permissions:
+      contents: write # ESSENCIAL: Permite que a Ação salve o arquivo SVG no repositório
+      
     steps:
       - uses: lowlighter/metrics@latest
         with:
