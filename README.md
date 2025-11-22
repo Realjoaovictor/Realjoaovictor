@@ -13,7 +13,7 @@
     <a href="mailto:jvictorsantos.dev@gmail.com"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-50646b353/" target="_blank"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
     <a href="https://open.spotify.com/playlist/6K5W8Ixrh1ljm0JstwQFDI?si=ebc7a01b195a41a4" target="_blank"><img width="30px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-    <a href="https://discord.gg/qtjh4qaM" target="_blank"><img width="30px" src="https://skillicons.dev/icons?i=discord" alt="Discord" / ></a><br>
+    <a href="https://discord.gg/qtjh4qaM" target="_blank"><img width="35px" src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/discord.png" alt="Discord" / ></a><br>
 </div>
 <br/>
 
