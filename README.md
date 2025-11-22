@@ -29,7 +29,7 @@
         <tr>
             <td style="border: none; padding-right: 20px;">
                 <div align="center">
-                  <img src="metrics.plugin.github.svg" width="430" alt="Perfil GitHub" /><br>
+                  <img src="svg/metrics.plugin.github.svg" width="430" alt="Perfil GitHub" /><br>
                 </div>
             </td>
             
@@ -47,7 +47,7 @@
 <!-- Languages Used-->
 <h3 align="center"> Status</h3>
 <div align="center">
-    <img src="metrics.plugin.languages.details.svg" alt="Métricas de Linguagens Recentes" />
+    <img src="svg/metrics.plugin.languages.details.svg" alt="Métricas de Linguagens Recentes" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
 
 <!-- End -->
 <div align="center">
-    <a href="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife5.gif?raw=true">
-      <img src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/pngs/gife5.gif?raw=true" alt="gife5/gif" style="width:auto; height:auto" />
+    <a href="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gife5.gif?raw=true">
+      <img src="https://github.com/Realjoaovictor/Realjoaovictor/blob/main/icons/gife5.gif?raw=true" alt="gife5/gif" style="width:auto; height:auto" />
     </a>
 </div>
