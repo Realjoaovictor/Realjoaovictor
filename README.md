@@ -46,7 +46,7 @@
 <!-- Languages Used-->
 <h3 align="center"> Status</h3>
 <div align="center">
-    <img src="metrics.plugin.languages.recent.svg" alt="Métricas de Linguagens Recentes" />
+    <img src="metrics.plugin.languages.details.svg" alt="Métricas de Linguagens Recentes" />
 </div>
 
 <br/>
