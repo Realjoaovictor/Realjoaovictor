@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.details.svg
+          filename: svg/metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -28,5 +28,3 @@ jobs:
               gnuplot
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 5
-          output_branch: main
-          output_directory: svg
