@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           
           # Nome do arquivo de saída
-          filename: metrics.plugin.github.svg
+          filename: svg/metrics.plugin.github.svg
           
           # Configuração base: mostra o card de perfil padrão com as estatísticas principais
           base: 'header, activity, community, metadata'
