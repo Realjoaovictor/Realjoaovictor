@@ -36,7 +36,7 @@
 <td style="border: none; padding-right: 20px;">
      <img src="https://skillicons.dev/icons?i=git,html,css,java,python,bash" /><br>
      <img src="https://skillicons.dev/icons?i=ubuntu,vscode,pwsh,github,notion" /><br>
-     <img src="https://skillicons.dev/icons?i=linux,robloxstudio" /><br>
+     <img src="https://skillicons.dev/icons?i=ps,linux,robloxstudio" /><br>
 </td>
         </tr>
     </table>
